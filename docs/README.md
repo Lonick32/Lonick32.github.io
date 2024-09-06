@@ -18,10 +18,12 @@ We need help with unpacking and understanding the following file formats:
 - **.es Files**
 - **.ani Files**
 - **.asd Files**
+- **.spr Files**
+- **.frm Files**
 
 ## Get Involved
 
-We need expertise in handling `.es`, `.ani`, and `.asd` files. If you have experience with these or can develop tools to manage these formats, please consider contributing.
+We need expertise in handling `.es`, `.ani`, `.spr`, `.frm` and `.asd` files. If you have experience with these or can develop tools to manage these formats, please consider contributing.
 
 ## Contact
 
